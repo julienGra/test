@@ -1,1 +1,1 @@
-cmd.exe
+echo test
